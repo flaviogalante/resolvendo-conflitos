@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 # Desenvolver página de cadastro
-=======
 # Verificar código login
->>>>>>> funcionalidade2
+# Criar funcionalidade para cadastro e login
+
