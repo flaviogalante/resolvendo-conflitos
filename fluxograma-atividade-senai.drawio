@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T11:08:15.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.148 YaBrowser/22.7.2.899 Yowser/2.5 Safari/537.36" etag="DNoLDGvOuiXN9OtK_X0F" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T11:09:58.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.148 YaBrowser/22.7.2.899 Yowser/2.5 Safari/537.36" etag="htDZsem5nBkJ7SOlY1e8" version="20.2.3" type="github">
   <diagram id="tJno88tq2ZMfg9BkjTdh" name="Página-1">
     <mxGraphModel dx="1705" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,11 @@
         <mxCell id="RgFRMSChoJaZ38QJNm0s-4" value="Qual a data do evento escolhido?" style="rhombus;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-70" y="160" width="160" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="q9jfc3Yq7v1mE4wtLVZI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RgFRMSChoJaZ38QJNm0s-5" target="RgFRMSChoJaZ38QJNm0s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RgFRMSChoJaZ38QJNm0s-5" value="Data inválida" style="shape=display;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="290" y="285" width="120" height="50" as="geometry" />
+          <mxGeometry x="125" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RgFRMSChoJaZ38QJNm0s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" source="RgFRMSChoJaZ38QJNm0s-7" target="RgFRMSChoJaZ38QJNm0s-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +69,7 @@
           <mxGeometry x="-65" y="880" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RgFRMSChoJaZ38QJNm0s-31" value="Cadastro não permitido; Limite de participantes excedido" style="shape=display;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="310" y="870" width="160" height="80" as="geometry" />
+          <mxGeometry x="280" y="870" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RgFRMSChoJaZ38QJNm0s-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" source="RgFRMSChoJaZ38QJNm0s-33" target="RgFRMSChoJaZ38QJNm0s-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -108,7 +111,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9jfc3Yq7v1mE4wtLVZI-27" value="Se dataEvento &amp;lt;= DataSistema" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="250" width="110" height="120" as="geometry" />
+          <mxGeometry x="120" y="250" width="130" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
